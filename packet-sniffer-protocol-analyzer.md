@@ -102,11 +102,4 @@ Through this project, I learned:
 - Build a graphical dashboard
 
 ---
-
-## Author
-
-**Sneha Santhosh**
-
-Aspiring Cybersecurity & GRC Professional
-
-GitHub: https://github.com/Snehaaa-sk
+https://github.com/sakthi6145
